@@ -1,0 +1,13 @@
+npm install react-native-image-viewing
+
+
+
+npm install react-native-gesture-handler react-native-reanimated
+
+
+
+npm install react-native-image-zoom-viewer
+
+
+npm install react-native-image-viewing
+
